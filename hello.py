@@ -1,4 +1,7 @@
 print("Hello")  
 print("read")
-one = []
-one.append(1)
+one = [1,]
+for x in one :
+    print("I am :",x)
+    one.append(x+1)
+print("YOu")
