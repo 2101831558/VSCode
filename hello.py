@@ -5,4 +5,3 @@ for x in one :
     print("I am :",x)
     one.append(x+1)
 print("The last change!")
-print("Last test!")
